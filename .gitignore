@@ -16,16 +16,27 @@
 
 # OneHistoryStudio managed begin
 *.bak
+*.buildwithskipanalyzers
 *.cache
+*.dwl
+*.dwl2
+*.elk
 *.eod
 *.eox
-*.elk
 *.flk
+*.idb
+*.ilk
 *.lck
 *.log
+*.lref
 *.obj
 *.pdb
 *.slk
+*.suo
+*.tlog
 *.tmp
+*.up2date
+*.user
+*.vsidx
 *.xlk
 # OneHistoryStudio managed end
