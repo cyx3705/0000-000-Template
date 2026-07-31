@@ -145,6 +145,8 @@
 *.pptx filter=lfs diff=lfs merge=lfs -text
 *.prefab text eol=lf
 *.pri filter=lfs diff=lfs merge=lfs -text
+*.prjpcb text eol=lf
+*.prjpcbstructure text eol=lf
 *.projitems text eol=lf
 *.props text eol=lf
 *.prp filter=lfs diff=lfs merge=lfs -text
@@ -177,6 +179,7 @@
 *.rsuser text eol=lf
 *.rul text eol=lf
 *.schdoc filter=lfs diff=lfs merge=lfs -text
+*.schdocpreview text eol=lf
 *.schlib filter=lfs diff=lfs merge=lfs -text
 *.scr text eol=lf
 *.set text eol=lf
@@ -219,6 +222,7 @@
 *.x_t filter=lfs diff=lfs merge=lfs -text
 *.yml text eol=lf
 *.zheng text eol=lf
+*.zip filter=lfs diff=lfs merge=lfs -text
 *.zw1 filter=lfs diff=lfs merge=lfs -text
 *._ text eol=lf
 # OneHistoryStudio managed end
