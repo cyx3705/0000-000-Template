@@ -1,4 +1,4 @@
-# OneHistoryStudio baseline begin
+# HistoryJanus baseline begin
 *.bak
 *.cache
 *.eod
@@ -12,9 +12,9 @@
 *.slk
 *.tmp
 *.xlk
-# OneHistoryStudio baseline end
+# HistoryJanus baseline end
 
-# OneHistoryStudio managed begin
+# HistoryJanus managed begin
 *.bak
 *.buildwithskipanalyzers
 *.cache
@@ -39,4 +39,4 @@
 *.user
 *.vsidx
 *.xlk
-# OneHistoryStudio managed end
+# HistoryJanus managed end
